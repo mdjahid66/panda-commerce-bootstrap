@@ -1,0 +1,41 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.catagories img{
+    width: 100px;
+}
+.cat-1, .cat-2, .cat-3 {
+
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+
+}
+.cat-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+.cat-3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+
+.slider{
+    margin-top: 150px;
+}
+.btn-bg{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    padding: 9px 25px;
+    border: 0;
+    border-radius: 7px;
+    color: white;
+}
+#shoes{
+    margin-top: 150px;
+}
+#subscribe{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
